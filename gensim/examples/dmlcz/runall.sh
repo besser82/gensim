@@ -1,4 +1,3 @@
-#!/bin/bash
 
 # full path to gensim executables
 BIN_PATH=~/xrehurek/gensim/dmlcz

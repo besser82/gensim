@@ -1,4 +1,3 @@
-#!/usr/bin/env python
 # -*- coding: utf-8 -*-
 #
 # Copyright (C) 2012 Jonathan Esterhazy <jonathan.esterhazy at gmail.com>

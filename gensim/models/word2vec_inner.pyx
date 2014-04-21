@@ -1,4 +1,3 @@
-#!/usr/bin/env cython
 # cython: boundscheck=False
 # cython: wraparound=False
 # cython: cdivision=True

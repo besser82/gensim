@@ -1,4 +1,3 @@
-#!/usr/bin/env python
 
 """
 A simple testrunner for nose (or anything else).

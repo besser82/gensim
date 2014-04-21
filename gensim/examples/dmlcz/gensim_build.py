@@ -1,4 +1,3 @@
-#!/usr/bin/env python
 #
 # Copyright (C) 2010 Radim Rehurek <radimrehurek@seznam.cz>
 # Licensed under the GNU LGPL v2.1 - http://www.gnu.org/licenses/lgpl.html

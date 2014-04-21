@@ -1,4 +1,3 @@
-#!/usr/bin/env python
 # encoding: utf-8
 #
 # Licensed under the GNU LGPL v2.1 - http://www.gnu.org/licenses/lgpl.html
