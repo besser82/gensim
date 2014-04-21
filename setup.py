@@ -64,6 +64,7 @@ setup(
 
     install_requires = [
         'scipy >= 0.7.0',
+        'six >= 1.2.0',
     ],
 
     extras_require = {
